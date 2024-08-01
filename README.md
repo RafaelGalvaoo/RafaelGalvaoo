@@ -1,5 +1,20 @@
-## Hi there 👋
 
+# Olá, sou Rafael Galvão!
+
+🎓 **Estudante de Ciência da Computação na UFCAT**  
+👨‍💻 Focado em **desenvolvimento front-end** e **design de UI/UX**  
+💡 Apaixonado por **tecnologia** e sempre em busca de aprender mais  
+🌱 Explorando novas tecnologias e boas práticas de desenvolvimento  
+🌟 Acredito no poder do **código aberto** e gosto de contribuir para a comunidade
+
+---
+
+## Habilidades
+
+- **Linguagens**: HTML, CSS, JavaScript
+- **Bibliotecas e Frameworks**: React
+- **Ferramentas de Design**: Figma
+- **Outras**: Git, GitHub
 <!--
 **RafaelGalvaoo/RafaelGalvaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
