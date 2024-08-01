@@ -12,7 +12,7 @@
 ## Habilidades
 
 - **Linguagens**: HTML, CSS, JavaScript
-- **Bibliotecas e Frameworks**: React
+- **Bibliotecas e Frameworks**: React, Flutter
 - **Ferramentas de Design**: Figma
 - **Outras**: Git, GitHub
 <!--
